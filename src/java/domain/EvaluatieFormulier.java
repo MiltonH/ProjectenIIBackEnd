@@ -179,7 +179,7 @@ public class EvaluatieFormulier
         return true;
     }
 
-    //massief aantal getter en setters
+    //massief aantal getter en setters!
     public Evaluatie getZithoudingZithouding() {
         return zithoudingZithouding;
     }
